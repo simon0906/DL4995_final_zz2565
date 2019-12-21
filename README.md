@@ -18,7 +18,7 @@ Project raw data and extracted patches link: &nbsp;&nbsp;&nbsp;&nbsp;https://dri
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;masking_slides/: mask slide image for training and validation <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;testing_slides/: slide and mask slide image for testing <br />
 <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;best_f1_score_model.h5: model saved with best f1 score for tumor recognition
+&nbsp;&nbsp;&nbsp;&nbsp;best_f1_score_model.h5: model saved with best f1 score for tumor recognition
 <br />
 <br />
 Viedo link:
